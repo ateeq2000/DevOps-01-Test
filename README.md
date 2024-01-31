@@ -1,9 +1,8 @@
 # DevOps-01-Test
 This is my First Repository
 ## DevOps Taringing Course
-- Git
+- Git/GitHub
 - Ansible
 - Jenkins
 - Docder
 - kubernetes
-- 
