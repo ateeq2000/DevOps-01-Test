@@ -4,3 +4,5 @@
 
 ## IT Security Department.
 - Section - 1
+- ateeqccie@gmail.com
+- ATEEQ KHAN
